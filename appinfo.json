@@ -1,0 +1,19 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "anoopvijayan2@gmail.com",
+    "longName": "rpad_accel",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "rpad_accel",
+    "uuid": "2acab78c-7d47-46fa-beff-d42da21fce6b",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
